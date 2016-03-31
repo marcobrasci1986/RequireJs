@@ -1,0 +1,22 @@
+{
+  "name": "RequireJs",
+  "homepage": "https://github.com/marcobrasci1986/RequireJs",
+  "authors": [
+    "MarcoBrasci1986 <marco_brasci@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.2.0",
+    "jquery": "^2.2.2"
+  }
+}
