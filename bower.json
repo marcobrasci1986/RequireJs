@@ -17,6 +17,7 @@
   ],
   "devDependencies": {
     "requirejs": "^2.2.0",
-    "jquery": "^2.2.2"
+    "jquery": "^2.2.2",
+    "r.js": "^2.2.0"
   }
 }
